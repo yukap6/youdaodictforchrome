@@ -1,5 +1,12 @@
 # chrome-extensions-youdaowithwordnode
 #
+
+> 本clone版本为有道词典chrome插件增加了如下功能
+> * 使用函数节流，解决鼠标快速移动到新单词，展示的是上一个单词的翻译结果
+> * 增加了页面缩放检测，解决页面缩放之后，翻译模块定位不准的情况
+> 联系方式 jwr1215@163.com,侵删
+> clone的仓库地址是：[https://github.com/cclient/chrome-extensions-youdaowithwordnode](https://github.com/cclient/chrome-extensions-youdaowithwordnode)
+
 google翻译版 https://github.com/cclient/chrome-extensions-googletranslatewithyoudaowordnote
 
 点击是添加生词 alt+点击是删除生词
